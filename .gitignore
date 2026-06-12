@@ -1,0 +1,24 @@
+# Editor / OS
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*~
+
+# Personal drafts (use this for any work-in-progress you don't want to commit)
+drafts/
+*.draft.md
+
+# Office files (we keep markdown source of truth)
+~$*.docx
+~$*.xlsx
+~$*.pptx
+
+# Anything resembling classified spillage indicators — never commit
+*.classified.*
+*UNCLASSIFIED*FOUO*  # warn-only
+*SECRET*
+*TOP*SECRET*
+*S//*
+*TS//*
+*//NOFORN*
