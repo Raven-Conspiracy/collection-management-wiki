@@ -113,7 +113,7 @@ See the [Master Doctrine Reference Table](references/doctrine-publications-maste
 | Cyber / National SIGINT | ✅ Complete |
 | Process Pages (PIR→EEI, ISR Sync, RFI) | ✅ Complete |
 | Templates (PIR, EEI, IC Matrix, ISR Sync, RFI) | ✅ Complete |
-| Discipline Deep-Dives (HUMINT/SIGINT/GEOINT/etc.) | 🟡 Stubbed — open for contribution |
+| Discipline Deep-Dives (HUMINT/SIGINT/GEOINT/MASINT/OSINT/TECHINT/CYBINT) | ✅ Complete |
 | Case Studies | 🟡 Stubbed — open for contribution |
 
 ---
